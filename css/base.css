@@ -1,0 +1,10 @@
+#text-buffer {
+  color: #fff;
+  background-color: #000;
+}
+
+#term-buffer {
+  background-color: #000;
+  border-radius: 0.375rem;
+  padding: 0.375rem 0.75rem;
+}

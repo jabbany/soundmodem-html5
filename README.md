@@ -12,6 +12,7 @@ PSK:
 
 Other:
 - DTMF
+- RTTY
 
 ## Supported Handshakes
 

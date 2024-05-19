@@ -9,5 +9,19 @@
       factory((root.protocols = {}));
   }
 }(typeof self !== 'undefined' ? self : this, function (exports) {
+  function YModem() {
 
+  }
+
+  function ZModem() {
+
+  }
+
+  function AX25() {
+
+  }
+
+  exports.AX25 = AX25;
+  exports.YModem = YModem;
+  exports.ZModem = ZModem;
 }));
